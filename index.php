@@ -45,10 +45,6 @@
             <li>Jasa Konstruksi EL006: Jasa Pelaksana Konstruksi Jaringan Distribusi Tenaga Listrik Tegangan Menengah</li>
             <li>Jasa Konstruksi EL007: Jasa Pelaksana Konstruksi Instalasi Jaringan Distribusi Tenaga Listrik Tegangan Rendah</li>
             <li>Jasa Konstruksi EL010: Jasa Pelaksana Instalasi Tenaga Listrik Gedung dan Pabrik</li>
-            <li>Layanan 1</li>
-            <li>Layanan 2</li>
-            <li>Layanan 3</li>
-            <li>Layanan 4</li>
         </ul>
     </section>
 

@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Nama Perusahaan</h1>
+        <h1>PT Mitratec Nusantara Djaya</h1>
         <nav>
             <ul>
                 <li><a href="#home">Beranda</a></li>
@@ -21,13 +21,15 @@
     </header>
 
     <section id="home">
-        <h2>Selamat Datang di Nama Perusahaan</h2>
-        <p>Deskripsi singkat tentang perusahaan Anda.</p>
+        <h2>Selamat Datang di PT. Mitratec Nusantara Djaya</h2>
+        <p>Siap memenuhi kebutuhan anda dengan layanan berkualitas tinggi.</p>
     </section>
 
     <section id="about">
         <h2>Tentang Kami</h2>
-        <p>Informasi lebih lanjut tentang perusahaan, visi, dan misi.</p>
+        <p>PT. MITRATEC NUSANTARA DJAYA merupakan perusahaan yang bergerak di bidang pelaksanaan dan tergabung dalam Asosiasi AKLI.
+          PT. MITRATEC NUSANTARA DJAYA berlokasi di KAB. TANAH BUMBU, Indonesia, tepatnya di Jl. Sampurna RT. 08 Desa Barokah - Kec Simpang Empat - Batulicin KAB. TANAH BUMBU, Indonesia.
+          PT. MITRATEC NUSANTARA DJAYA memiliki reputasi baik dalam memberikan layanan berkualitas tinggi di sektor konstruksi.</p>
     </section>
 
     <section id="catalog">
@@ -58,7 +60,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Nama Perusahaan. Semua hak dilindungi.</p>
+        <p>&copy; 2025 PT. Mitratec Nusantara Djaya. Semua hak dilindungi.</p>
     </footer>
 </body>
 </html>

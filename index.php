@@ -38,10 +38,10 @@
     <section id="catalog">
         <h2>Layanan</h2>
         <ul>
-            <li>Produk 1</li>
-            <li>Produk 2</li>
-            <li>Produk 3</li>
-            <li>Produk 4</li>
+            <li>Layanan 1</li>
+            <li>Layanan 2</li>
+            <li>Layanan 3</li>
+            <li>Layanan 4</li>
         </ul>
     </section>
 

@@ -13,6 +13,11 @@ header {
   text-align: center;
 }
 
+.logo {
+  width: 100px; /* atur ukuran logo */
+  margin-right: 10px;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between; /* jarak antara h1 dan nav */

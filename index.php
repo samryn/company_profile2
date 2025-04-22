@@ -8,7 +8,10 @@
 </head>
 <body>
     <header class="navbar">
-        <div><h1>PT Mitratec Nusantara Djaya</h1></div>
+        <div class="brand">
+            <img src="images\logo_bgremoved.png" alt="Logo PT Mitratec" class="logo">
+            <h1>PT Mitratec Nusantara Djaya</h1>
+        </div>
         <nav>
             <ul>
                 <li><a href="#home">Beranda</a></li>

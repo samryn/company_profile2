@@ -18,6 +18,11 @@ header {
   margin-right: 10px;
 }
 
+.brand {
+  display: flex;
+  align-items: center;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between; /* jarak antara h1 dan nav */

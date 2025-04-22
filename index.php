@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>PT Mitratec Nusantara Djaya</h1>
+    <header class="navbar">
+        <div><h1>PT Mitratec Nusantara Djaya</h1></div>
         <nav>
             <ul>
                 <li><a href="#home">Beranda</a></li>

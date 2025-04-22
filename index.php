@@ -33,7 +33,7 @@
     </section>
 
     <section id="catalog">
-        <h2>Katalog</h2>
+        <h2>Layanan</h2>
         <ul>
             <li>Produk 1</li>
             <li>Produk 2</li>
